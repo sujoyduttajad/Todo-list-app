@@ -1,6 +1,6 @@
 # React Todo-list App
 
-A simple or fancy todo-list built using react & react-hooks. You can update, delete, and mark complete the tasks you have done.
+A colorful todo-list built using react & react-hooks. You can update, delete, and mark complete the tasks you have done.
 Completed tasks are striked-out and are shown as faded.
 
 Using useRef, useState & useEffect.
