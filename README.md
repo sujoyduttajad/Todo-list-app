@@ -6,5 +6,5 @@ Completed tasks are striked-out and are shown as faded.
 Using useRef, useState & useEffect.
 Completely responsive UI even supporting surface duo devices.
 
-[Live Demo:](https://react-fancytodolist-547c1a.netlify.app/)
+[Live Demo: https://react-fancytodolist-547c1a.netlify.app/](https://react-fancytodolist-547c1a.netlify.app/)
 
