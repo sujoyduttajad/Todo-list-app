@@ -8,3 +8,7 @@ Completely responsive UI even supporting surface duo devices.
 
 [Live Demo: https://react-fancytodolist-547c1a.netlify.app/](https://react-fancytodolist-547c1a.netlify.app/)
 
+<img src="./todolist-large.png" alt="the screenshot of the app large screen"/>
+<img src="./todolist-ipad.png" alt="the screenshot of the app large screen"/>
+<img src="./todolist-surfaceduo.png" alt="the screenshot of the app large screen"/>
+<img src="./todolist-mobile.png" alt="the screenshot of the app large screen"/>
